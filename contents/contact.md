@@ -4,7 +4,7 @@
 
 <i class="bi bi-telephone-fill"></i> Phone: 1-517-432-1811
 
-<i class="bi bi-map-pin-fill"></i> In-person: Psychology Department, Michigan State University, 316 Physics Rd, East Lansing, MI 48824
+<i class="bi bi-map-pin-fill"></i> In-person: [Psychology Department, Michigan State University, 316 Physics Rd, East Lansing, MI 48824](https://maps.app.goo.gl/2P8gPfKb7kxVP8aM8)
 
 <i class="bi bi-github"></i> GitHub: https://github.com/zpneal
 
