@@ -1,1 +1,1 @@
-Section 1 text
+I'm a Professor in the [Psychology Department at Michigan State University](https://psychology.msu.edu/directory/neal-zachary.html), and at editor at the journal [_Global Networks_](https://onlinelibrary.wiley.com/journal/14710374). My current research focuses primarily on networks and has touched on topics in several disciplines including geography, sociology, education, and psychology.
