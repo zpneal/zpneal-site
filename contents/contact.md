@@ -1,5 +1,3 @@
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.13.1/font/bootstrap-icons.min.css">
-
 <i class="bi bi-envelope-at-fill"></i> Email: [zpneal@msu.edu](mailto:zpneal@msu.edu)
 
 <i class="bi bi-telephone-fill"></i> Phone: 1-517-432-1811
