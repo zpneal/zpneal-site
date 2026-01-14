@@ -6,6 +6,8 @@ I have used co-sponsorship data to infer networks of political alliances and ant
 * Neal, Z. P. (2020). A sign of the times? Weak and strong polarization in the U.S. Congress, 1973 – 2016. _Social Networks, 60_, 103-112. https://doi.org/10.1016/j.socnet.2018.07.007
 
 * Aref, S. and Neal, Z. P. (2020). Detecting coalitions by optimally partitioning signed networks of political collaboration. _Scientific Reports, 10_, 1506. https://doi.org/10.1038/s41598-020-58471-z
+  
+* Neal, Z. P. (2022). Constructing legislative networks in R using incidentally and backbone. _Connections, 42_, 1-9. https://doi.org/10.2478/connections-2019.026
 
 #### Implementation
 XXX
