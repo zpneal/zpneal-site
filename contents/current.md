@@ -19,7 +19,7 @@ A network is a complex data object, and it can take many different forms. As a r
 _Childfree_ adults do not have biological or adopted children, _and_ they do not want to have biological or adopted children. It is a large and growing population, comprising nearly [30% of all non-parents in the United States in 2023](https://doi.org/10.1111/jomf.13097), but remains understudied. This research uses quantitative demographic methods to track the prevalence of childfree individuals and their characteristics at the population level in the United States and beyond. To facilitate this research, it has also led to the development of the [**childfree** package for **R**](https://cran.r-project.org/package=childfree).
 
 Key publications:
-* Neal, J. W., and Neal, Z. P. (2021). Prevalence and characteristics of childfree adults in Michigan (USA). _PLOS One, 16_, e0252528. https://doi.org/10.1371/journal.pone.0252528. ([data](https://osf.io/45v6b))
+* Neal, J. W. and Neal, Z. P. (2021). Prevalence and characteristics of childfree adults in Michigan (USA). _PLOS One, 16_, e0252528. https://doi.org/10.1371/journal.pone.0252528. ([data](https://osf.io/45v6b))
 
 * Neal, Z. P. and Neal, J. W. (2022). Prevalence, age of decision, and interpersonal warmth judgements of childfree adults. _Scientific Reports, 12_, 11907. https://doi.org/10.1038/s41598-022-15728-z  ([data](https://osf.io/8avrd/))
 
