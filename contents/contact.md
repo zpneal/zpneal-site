@@ -4,6 +4,6 @@
 
 <i class="bi bi-pin-map-fill"></i> In-person: [Psychology Department, Michigan State University, 316 Physics Rd, East Lansing, MI 48824](https://maps.app.goo.gl/2P8gPfKb7kxVP8aM8)
 
-<i class="bi bi-github"></i> GitHub: https://github.com/zpneal
+<i class="bi bi-github"></i> GitHub: [@zpneal](https://github.com/zpneal)
 
-<i class="bi bi-bluesky"></i> Bluesky: https://bsky.app/profile/zpneal.bsky.social
+<i class="bi bi-bluesky"></i> Bluesky: [@zpneal.bsky.social](https://bsky.app/profile/zpneal.bsky.social)
