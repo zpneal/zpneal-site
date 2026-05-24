@@ -29,4 +29,4 @@ Key publications:
 ​
 * Neal, J. W. and Neal, Z. P. (2025). Tracking types of non-parents in the United States. _Journal of Marriage and Family, 87_, 1747-1762. https://doi.org/10.1111/jomf.13097 ([data](https://osf.io/um2dk/))
 
-* Neal, Z. P. and Neal, J. W. (2026). Prevalence and predictors of childfree people in developing countries. _PLoS One, 20_, e0333906. https://doi.org/10.1371/journal.pone.0333906
+* Neal, Z. P. and Neal, J. W. (2026). Prevalence and predictors of childfree people in developing countries. _PLoS One, 20_, e0333906. https://doi.org/10.1371/journal.pone.0333906 ([data](https://osf.io/9zjax/))
