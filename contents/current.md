@@ -4,7 +4,7 @@
 When a network is weighted (e.g., the strength of friendship) or very dense (e.g., nearly everyone is friends), it can be difficult to visualize and analyze. In such cases, it can be helpful to focus on the network's _backbone_, an unweighted network that contains only the most "important" edges. My research on network backbones focuses on developing and comparing methods for identifying important edges (i.e., for extracting backbones), and on implementing these methods in the [**backbone** package for **R**](https://cran.r-project.org/package=backbone). This work has been supported by a series of grants from the US National Science Foundation ([#1851625](https://www.nsf.gov/awardsearch/show-award?AWD_ID=1851625), [#2016320](https://www.nsf.gov/awardsearch/show-award?AWD_ID=2016320), [#2211744](https://www.nsf.gov/awardsearch/show-award?AWD_ID=2211744)).
 
 Key publications:
-* Neal, Z. P. (2022). backbone: An R package to extract network backbones. _PLOS One, 17_, e0269137. https://doi.org/10.1371/journal.pone.0269137
+* Neal, Z. P. (2026). backbone: An R package to extract network backbones. _PLOS One, 21_, e0349258. https://doi.org/10.1371/journal.pone.0349258
 ​
 * Neal, Z. P., Domagalski, R., & Sagan, B. (2021). Comparing alternatives to the fixed degree sequence model for extracting the backbone of bipartite projections. _Scientific Reports, 11_, 23929. https://doi.org/10.1038/s41598-021-03238-3​
 
