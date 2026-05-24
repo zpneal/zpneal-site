@@ -28,3 +28,5 @@ Key publications:
 * Neal, Z. P. and Neal, J. W. (2024). A framework for studying adults who neither have nor want children. _The Family Journal, 32_, 121-130. https://doi.org/10.1177/10664807231198869  ([free version](https://psyarxiv.com/fa89m/), [data](https://osf.io/2krve/))
 ​
 * Neal, J. W. and Neal, Z. P. (2025). Tracking types of non-parents in the United States. _Journal of Marriage and Family, 87_, 1747-1762. https://doi.org/10.1111/jomf.13097 ([data](https://osf.io/um2dk/))
+
+* Neal, Z. P. and Neal, J. W. (2026). Prevalence and predictors of childfree people in developing countries. _PLoS One, 20_, e0333906. https://doi.org/10.1371/journal.pone.0333906
